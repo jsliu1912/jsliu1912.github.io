@@ -3,6 +3,6 @@ layout: default
 title: "Resume"
 ---
 
-![Cover photo](/assets/photo1.jpg)
+![Cover photo](/assets/photo1.jpeg)
 
 
