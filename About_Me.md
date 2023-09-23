@@ -1,4 +1,3 @@
-<div style="height: 1em;"></div>---
 layout: default
 title: "About Me"
 ---
