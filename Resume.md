@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "test"
+title: "Resume"
 ---
 
 ![Cover photo](/assets/photo.jpg)
