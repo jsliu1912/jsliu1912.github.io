@@ -19,14 +19,6 @@ h1 {font-weight: bold !important;
 </div>
 
 
-<div style="padding-left: 40px;">
-I am Jhih-Sheng Liu, a young evolutionary biologist fascinated by evolutionary adaptation in diverse biological systems!
-
-</div>
-
-</div>
-
-</div>
 
 
 
