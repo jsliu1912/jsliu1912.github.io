@@ -1,4 +1,4 @@
----
+<div style="height: 1em;"></div>---
 layout: default
 title: "About Me"
 ---
@@ -18,8 +18,8 @@ h1 {font-weight: bold !important;
 <h1 style="text-align: center; font-style: italic;">Welcome to my website!</h1>
 </div>
 
-
-<div style="padding-left: 50px; height: 200px;">
+<div style="height: 1em;"></div>
+<div style="padding-left: 50px;">
 I am Jhih-Sheng Liu, a young evolutionary biologist fascinated by evolutionary adaptation in diverse biological systems!
 
 </div>
