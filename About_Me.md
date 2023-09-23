@@ -19,7 +19,7 @@ h1 {font-weight: bold !important;
 </div>
 
 
-<div style="padding-left: 100px;">
+<div style="padding-left: 50px; height: 80px;">
 I am Jhih-Sheng Liu, a young evolutionary biologist fascinated by evolutionary adaptation in diverse biological systems!
 
 </div>
