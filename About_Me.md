@@ -1,7 +1,3 @@
-layout: default
-title: "About Me"
----
-
 <style>
 h1 {font-weight: bold !important; 
     font-size: 42px !important}
