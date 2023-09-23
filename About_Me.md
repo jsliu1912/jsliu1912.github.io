@@ -12,13 +12,9 @@ h1 {font-weight: bold !important;
 <div style="height: 50px;">
 <h1 style="text-align: center; font-style: italic;">Welcome to my website!</h1>
 </div>
-
+<div style="height: 5em;"></div>
 
 <div style="padding-left: 40px;">
-
-
-
-
 I am Jhih-Sheng Liu, a young evolutionary biologist fascinated by evolutionary adaptation in diverse biological systems!
 
 
