@@ -5,8 +5,8 @@ h1 {font-weight: bold !important;
 
 <div style="display: flex;">
 
-<img src="/assets/photo1.jpeg" style="max-width: 300px; max-height: 200px; width:auto; height:auto; margin-top: -15px;">
-<div style="padding-left: 40px; width: 800px">
+<img src="/assets/photo1.jpeg" style="max-width: 150px; max-height: 50px; width:auto; height:auto; margin-top: -15px;">
+<div style="padding-left: 15px; width: 800px">
 <div style="height: 1em;"></div>
 
 <div style="height: 50px;">
