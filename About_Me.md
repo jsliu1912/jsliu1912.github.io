@@ -5,7 +5,7 @@ h1 {font-weight: bold !important;
 
 <style>
 h2 {font-weight: bold !important; 
-    font-size: 24px !important}
+    font-size: 20px !important}
 </style>  
 
 <div style="display: flex;">
@@ -44,10 +44,9 @@ In my leisure time, I enjoy hiking, wildlife observation, playing badminton and 
 <br>
 
 # Education:
-<div style="height: 0.1em;"></div>
+<div style="height: 4px;"></div>
 <h2>•	M.Sc., Landscape Ecology, University of Hohenheim (2022 – present)</h2>
-
-<div style="height: 0.1em;"></div>
+<div style="height: 4px;"></div>
 <h2>•	B.S., Life Science, National Taiwan University (2017 – 2022)</h2>
 
 
