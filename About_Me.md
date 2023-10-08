@@ -18,6 +18,14 @@ h1 {font-weight: bold !important;
 I am Jhih-Sheng Liu, a young biologist keen to unravel the captivating mysteries of evolutionary adaptation across diverse biological systems!!
 
 
+</div>
+
+</div>
+
+</div>
+
+<div style="height: 1em;"></div>
+Since high school, I have been passionate about the charming intricacies of evolution and ecological dynamics that shape the present biodiversity. This natural passion has motivated me to seek a better understanding and sustainable solutions for preserving biological resources.
 
 
 
