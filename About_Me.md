@@ -40,5 +40,11 @@ In my leisure time, I enjoy hiking, wildlife observation, playing badminton and 
 
 # Education:
 <div style="height: 1em;"></div>
+•	M.Sc., Landscape Ecology, University of Hohenheim (2022 – present)
+
+<div style="height:4px;"></div>
+•	B.S., Life Science, National Taiwan University (2017 – 2022)
+
+
 
 
